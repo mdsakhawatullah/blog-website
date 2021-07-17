@@ -4,7 +4,7 @@ import './Sidebar.css'
 const Sidebar = () => {
     return (
         <div className='sidebar'>
-            <div className="sidebarItems">
+            <div className="sidebarItem">
                 <span className="sidebarTitle">About Me</span>
                 <img src="https://th.bing.com/th/id/OIP.g7_h2c4RwoWavc2dwyyigAHaE7?pid=ImgDet&rs=1" alt="" />
 
