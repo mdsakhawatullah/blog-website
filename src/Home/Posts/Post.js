@@ -15,6 +15,11 @@ const Post = () => {
                 <hr/>
                 <span className="postDate">1 hour ago</span>
             </div>
+            <p className="postDesc">
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam alias quo quasi aperiam harum iure quis aliquam illum consequuntur? Nulla!
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam alias quo quasi aperiam harum iure quis aliquam illum consequuntur? Nulla!
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam alias quo quasi aperiam harum iure quis aliquam illum consequuntur? Nulla!
+            </p>
             
         </div>
     );
