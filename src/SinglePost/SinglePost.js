@@ -19,6 +19,8 @@ const SinglePost = () => {
                 </div>
                 <p className="singlePostDes">
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis ipsum numquam quisquam impedit error consequuntur harum, ex consequatur enim autem fugit, in ad quo ab soluta aliquam qui possimus labore doloribus voluptas porro delectus fuga distinctio. Assumenda numquam tenetur sit reiciendis aspernatur dolorum minima illum animi deserunt quis soluta praesentium, laborum quos obcaecati ea, quod ipsam necessitatibus, nam natus illo libero rem veritatis hic est! Qui voluptas ipsum eligendi nostrum.
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis ipsum numquam quisquam impedit error consequuntur harum, ex consequatur enim autem fugit, in ad quo ab soluta aliquam qui possimus labore doloribus voluptas porro delectus fuga distinctio. Assumenda numquam tenetur sit reiciendis aspernatur dolorum minima illum animi deserunt quis soluta praesentium, laborum quos obcaecati ea, quod ipsam necessitatibus, nam natus illo libero rem veritatis hic est! Qui voluptas ipsum eligendi nostrum.
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis ipsum numquam quisquam impedit error consequuntur harum, ex consequatur enim autem fugit, in ad quo ab soluta aliquam qui possimus labore doloribus voluptas porro delectus fuga distinctio. Assumenda numquam tenetur sit reiciendis aspernatur dolorum minima illum animi deserunt quis soluta praesentium, laborum quos obcaecati ea, quod ipsam necessitatibus, nam natus illo libero rem veritatis hic est! Qui voluptas ipsum eligendi nostrum.
                 </p>
             </div>
         </div>

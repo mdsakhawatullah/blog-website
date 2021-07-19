@@ -9,11 +9,11 @@ import Single from '../Single/Single';
 const Home = () => {
     return (
         <>
-        <Header/>
+        
         <div className='home'>
             <Single/>
             
-            <Sidebar/>
+           
 
             
         </div>

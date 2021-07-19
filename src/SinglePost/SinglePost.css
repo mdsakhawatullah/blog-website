@@ -24,6 +24,7 @@
     float: right;
     font-size: 18px;
 }
+
 .singlePostIcon{
     margin-left: 10px;
     cursor: pointer;
@@ -37,7 +38,7 @@
 .singlePostInfo{
     margin-bottom: 18px;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     font-size: 16px;
     color: gray;
 }
