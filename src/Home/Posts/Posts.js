@@ -2,18 +2,16 @@ import React from 'react';
 import Post from './Post';
 import './Posts.css'
 
-const Posts = () => {
+const Posts = ({ posts }) => {
     return (
-        <div className='posts'>
-            <Post/>
-            <Post/>
-            <Post/>
-            <Post/>
-            <Post/>
-            <Post/>
-            
+        <div className="posts">
+          {posts.map((p) => (
+            <Post post={p} />
+          ))}
         </div>
-    );
-};
+      );
+    }
+    
+
 
 export default Posts;

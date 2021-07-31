@@ -1,49 +1,61 @@
-.login{
-    height: calc(100vh- 50px);
+.login {
+    height: calc(100vh - 50px);
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     background: linear-gradient(
-        rgba(241, 143, 143, 0.5),
+        rgba(255, 255, 255, 0.5),
         rgba(255, 255, 255, 0.5)
-    ),
-    url("https://www.pngfind.com/pngs/m/291-2912895_hd-backgrounds-png-transparent-background-for-login-page.png");
-    background-size: cover ;
-} 
-.loginTitle{
+      ),
+      url("https://images.pexels.com/photos/768473/pexels-photo-768473.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+    background-size: cover;
+  }
+  
+  .loginTitle {
     font-size: 50px;
-} 
-
-.loginForm{
+  }
+  
+  .loginForm {
     margin-top: 20px;
     display: flex;
     flex-direction: column;
-}
-.loginForm > label{
+  }
+  
+  .loginForm > label {
     margin: 10px 0;
-}
-.loginInput{
+  }
+  
+  .loginInput {
     padding: 10px;
     background-color: white;
     border: none;
-}
-.loginButton {
+  }
+  
+  .loginButton {
     margin-top: 20px;
     cursor: pointer;
-    background-color: teal;
+    background-color: lightcoral;
     border: none;
     color: white;
     border-radius: 10px;
     padding: 10px;
-}
-.loginRegisterButto{
+  }
+  
+  .loginButton:disabled{
+    cursor: not-allowed;
+    background-color: rgb(252, 173, 173);
+  }
+  
+  .loginRegisterButton {
     position: absolute;
     top: 60px;
     right: 20px;
     background-color: teal;
+    cursor: pointer;
     border: none;
     padding: 10px;
     color: white;
-    border-radius: 12px;
-}
+    border-radius: 10px;
+  }
+  
